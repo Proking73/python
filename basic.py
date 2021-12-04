@@ -4,4 +4,4 @@ days_to_sec = numDays*60*60*24;
 if numDays==1:
   print(numDays,"day is equal to",days_to_sec,"seconds");
 else:
-  print(numDays,"days is equal to",days_to_sec,"seconds");
+  print(numDays,"days are equal to",days_to_sec,"seconds");
